@@ -11,6 +11,8 @@
   - Second, after structuring the raw reflections, I transitioned into quantitative analysis using pandas, converting the qualitative persona tags into count-based metrics grouped across cohorts. This enabled sentiment-style cohort comparisons, aggregated persona breakdowns, a correlation heatmap to explore relationships across categories, and a 2×2 chart suite to view cohort totals per persona.
 
 ## Categorical Description
+<img width="1920" height="1274" alt="image" src="https://github.com/user-attachments/assets/ae4ea973-6bb2-4e03-9f2f-7c0d539c5f5c" />
+
 - Sentiment: Captures the emotional tone of a participant’s reflection, classified as positive, negative, or neutral. This metric reveals overall morale and attitude shifts across weeks.
 - Future Anticipation: Tracks how participants feel about what’s next, whether they express hope, uncertainty, or excitement toward the future. Helps gauge confidence in outcomes and forward outlook.
 - Stress Management: Measures how participants handle pressure, including coping strategies, time-management struggles, or emotional overwhelm. Provides insight into adaptability and emotional regulation.
