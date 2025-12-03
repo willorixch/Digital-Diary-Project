@@ -81,6 +81,6 @@ This pie chart visualizes the overall semantic distribution of participant perso
 
 These bar charts segment persona patterns for each cohort track independently, displayed as four separate charts for clear comparison of persona frequency across Storytelling, Lens, Engineering, and Design participant groups.
 
-<img width="784" height="614" alt="image" src="https://github.com/user-attachments/assets/f8676d9b-f02f-4146-ace5-e3d9f6f3f716" />
+<img width="784" height="614" alt="image" src="https://github.com/user-attachments/assets/76155a45-6940-4326-a940-c3203e7931c7" />
 
 
