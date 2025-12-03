@@ -16,3 +16,15 @@
 - Progress: Flags reflections that mention personal or professional wins, skill improvement, or momentum gained. Shows who felt improvement and when they felt it.
 - Obstacles: Highlights challenges such as confusion in coursework, lack of resources, burnout, or competing responsibilities. This category contextualizes dips or stagnation in progress.
 - Learning: Tracks concrete insights about skills gained, topics mastered, or new concepts understood. This is a key indicator of technical and soft-skill acquisition across cohorts.
+
+## Persona Breakdown
+
+### This project processed 60 participants’ weekly reflections from the 9-week Snap Academies program, which organizes learners into distinct cohorts. To transform written diaries into measurable insights, I grouped participants by week and cohort, then structured those tallies into a reshaped table that preserved identity indexing. Using those aggregates, I identified dominant behavioral patterns among participants and distilled them into four meaningful personas:
+
+- Blossoming Grinder: Participants who showed steady engagement from start to finish. Their weekly entries reflect consistency, persistence, and continuous progress, meaning they sustained effort across all 9 weeks without dramatic drop-offs. Their growth is not one breakthrough moment, but a long, reliable upward trajectory.
+
+- Confidence Catalyst: Participants who entered the program uncertain or hesitant but developed noticeable self-assurance as weeks progressed. Their responses indicate turning points where confusion shifted into clarity, participation into contribution, and interest into momentum. Their diaries highlight increased comfort, creativity, and willingness to take ownership of tasks over time.
+
+- Resilience Builder: Participants who explicitly discussed overcoming challenges amid academic or personal pressure. Their responses include mentions of setbacks, adaptation, and skill development despite obstacles. These individuals show emotional and technical flexibility, often bouncing back stronger after difficult weeks, aligning with a narrative of persistence through adversity.
+
+- Global Mover: A smaller group of participants (5 total) who traveled or relocated to attend the program, or whose cultural/academic perspectives differ from typical domestic participants. While fewer in number, their diaries add a dimension of mobility, transition, and navigating unfamiliar environments while maintaining academic focus.
