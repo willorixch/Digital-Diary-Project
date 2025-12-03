@@ -1,4 +1,6 @@
 # Digital-Diary-Project
+
+<img width="1000" height="470" alt="image" src="https://github.com/user-attachments/assets/ce27974a-12d2-447a-877d-802979cf2839" />
 This repo displays my digital diary project 
 
 This project analyzes participant diary entries across 4 cohorts using sentiment counts and custom personas.  
