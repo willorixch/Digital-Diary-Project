@@ -50,3 +50,28 @@ Weekly feelings influence future outlook and stress levels. Positive or negative
 
 ## Personas Visualization 
 This section will categorize participants into personas based on emotional and technical development signals reflected in weekly diary themes.
+
+## Data Preview (After Adding Persona Coloumn)
+
+| Participant | Sentiment | Future Anticipation | Stress Management | Work/Life Balance | Progress | Obstacles | Learning | Week | Cohort | Persona |
+|------------|-----------|-------------------|------------------|------------------|----------|-----------|----------|--------|--------|--------|
+| 2515_SSA   | +         | hopeful           | no mention       | no mention       | no mention | time management, personal | no mention | Week 1 | Storytelling | Blossoming Grinder |
+| 2515_SLA   | +         | hopeful           | no mention       | no mention       | no mention | personal, professional | no mention | Week 1 | Lens | Confidence Catalyst |
+| 2515_SEA   | +         | hopeful           | no mention       | no mention       | no mention | personal, professional | no mention | Week 1 | Engineering | Blossoming Grinder |
+| 2515_SDA   | +         | hopeful           | no mention       | no mention       | no mention | personal | no mention | Week 1 | Design | Resilience Builder |
+| 2514_SSA   | +         | hopeful           | no mention       | no mention       | "personal (communication, confidence, organization..)" | personal | no mention | Week 1 | Storytelling | Confidence Catalyst |
+
+
+## Persona Distribution (Overall)
+
+This pie chart visualizes the overall semantic distribution of participant personas after diary analysis was restructured for week-level tracking. 
+
+<img width="614" height="432" alt="image" src="https://github.com/user-attachments/assets/fe3bb47d-beb0-4331-b4d4-91d25f0ce45c" />
+
+## Persona by Cohort (Bar Chart Breakdown)
+
+These bar charts segment persona patterns for each cohort track independently, displayed as four separate charts for clear comparison of persona frequency across Storytelling, Lens, Engineering, and Design participant groups.
+
+<img width="784" height="614" alt="image" src="https://github.com/user-attachments/assets/f8676d9b-f02f-4146-ace5-e3d9f6f3f716" />
+
+
