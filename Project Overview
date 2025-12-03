@@ -1,1 +1,8 @@
-# Project Overview 
+# Digitial Dirary Project Overview 
+
+This project involved processing and analyzing 60 participants’ weekly digital diary submissions from the Snap Academies program over a 9-week period. Each participant provided a new diary entry every week, resulting in 540 total journal segments tied to a single program cycle. The entries reflect how participants navigated their learning journey, the progression of their skills, challenges they faced, and how they managed their personal and professional balance throughout the program. The diary entries also identify each individual as part of one of four cohorts: Design, Engineering, Lens, and Storytelling.
+
+The main challenge was transforming a qualitative dataset — personal and written reflections — into structured numerical insights that could be visualized and evaluated. To accomplish this, I conducted a two-phase analysis pipeline. First, I completed a qualitative review of the diary content to tag participant themes and construct persona archetypes that represent resilience, confidence growth, and sustained motivation. The personas currently mapped include category clusters such as “Blossoming Grinder,” “Confidence Catalyst,” “Global Mover,” and “Resilience Builder.”
+
+Second, after structuring the raw reflections, I transitioned into quantitative analysis using pandas, converting the qualitative persona tags into count-based metrics grouped across cohorts. This enabled sentiment-style cohort comparisons, aggregated persona breakdowns, a correlation heatmap to explore relationships across categories, and a 2×2 chart suite to view cohort totals per persona.
+
