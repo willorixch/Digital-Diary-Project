@@ -1,6 +1,8 @@
 # Digitial Dirary Project Breakdwon
 
 ## Overview
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/47eecca0-ba80-4578-b785-563dba0d0f38" />
+
 - This project involved processing and analyzing 60 participants’ weekly digital diary submissions from the Snap Academies program over a 9-week period. Each participant provided a new diary entry every week, resulting in 540 total journal segments tied to a single program cycle.
 - The entries reflect how participants navigated their learning journey, the progression of their skills, challenges they faced, and how they managed their personal and professional balance throughout the program. The diary entries also identify each individual as part of one of four cohorts: Design, Engineering, Lens, and Storytelling.
 
