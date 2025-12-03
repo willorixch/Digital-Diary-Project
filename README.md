@@ -1,6 +1,6 @@
 # Digital-Diary-Project
 
-<img width="1208" height="578" alt="image" src="https://github.com/user-attachments/assets/8e5bf9cf-726c-433e-a993-bfd5c3b93242" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/031709a6-4bfa-4ecb-9fbb-4bacaddc0cb7" />
 
 This project analyzes participant diary entries across 4 unique cohorts with 7 different categories.  
 It includes:
