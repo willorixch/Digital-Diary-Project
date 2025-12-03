@@ -20,6 +20,7 @@
 - Learning: Tracks concrete insights about skills gained, topics mastered, or new concepts understood. This is a key indicator of technical and soft-skill acquisition across cohorts.
 
 ## Persona Breakdown
+<img width="850" height="484" alt="image" src="https://github.com/user-attachments/assets/0fc35a4e-91bb-4ff8-a557-6c66161f7608" />
 
 ##### This project processed 60 participants’ weekly reflections from the 9-week Snap Academies program, which organizes learners into distinct cohorts. To transform written diaries into measurable insights, I grouped participants by week and cohort, then structured those tallies into a reshaped table that preserved identity indexing. Using those aggregates, I identified dominant behavioral patterns among participants and distilled them into four meaningful personas:
 
