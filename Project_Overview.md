@@ -19,7 +19,7 @@
 
 ## Persona Breakdown
 
-### This project processed 60 participants’ weekly reflections from the 9-week Snap Academies program, which organizes learners into distinct cohorts. To transform written diaries into measurable insights, I grouped participants by week and cohort, then structured those tallies into a reshaped table that preserved identity indexing. Using those aggregates, I identified dominant behavioral patterns among participants and distilled them into four meaningful personas:
+##### This project processed 60 participants’ weekly reflections from the 9-week Snap Academies program, which organizes learners into distinct cohorts. To transform written diaries into measurable insights, I grouped participants by week and cohort, then structured those tallies into a reshaped table that preserved identity indexing. Using those aggregates, I identified dominant behavioral patterns among participants and distilled them into four meaningful personas:
 
 - Blossoming Grinder: Participants who showed steady engagement from start to finish. Their weekly entries reflect consistency, persistence, and continuous progress, meaning they sustained effort across all 9 weeks without dramatic drop-offs. Their growth is not one breakthrough moment, but a long, reliable upward trajectory.
 
