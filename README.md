@@ -2,7 +2,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/031709a6-4bfa-4ecb-9fbb-4bacaddc0cb7" />
 
-This project extracts insights from participant diaries across 4 cohorts, encoding and visualizing trends in 7 core categories.
+A portfolio project analyzing and visualizing 60 participants’ digital diary data across 4 cohorts and 7 learning and wellbeing categories, built to showcase data transformation and insight storytelling.
 It includes:
 
 - Data cleaning & aggregation using pandas
