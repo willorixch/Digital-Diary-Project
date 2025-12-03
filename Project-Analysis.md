@@ -19,46 +19,34 @@ The full report and all original columns can be viewed by opening the HTML file 
 ### Cramér’s V Confusion Matrix
 A confusion matrix compares two categorical columns by counting how often each pair of labels occurs together, forming the basis for the chi-square test. In this project, it helps quantify relationships like how a participant’s weekly sentiment aligns with stress, anticipation, or learning patterns.
 
---- <img width="754" height="656" alt="image" src="https://github.com/user-attachments/assets/0c9b44d6-32e8-4698-851b-35d0f84ce130" />
+<img width="754" height="656" alt="image" src="https://github.com/user-attachments/assets/0c9b44d6-32e8-4698-851b-35d0f84ce130" />
 
 
 ### Insights from Cramér’s V Heatmap
 Cramér’s V values range from 0 to 1, where higher values suggest stronger categorical association. The strongest measured relationship in the full analysis was between **Sentiment and Future Anticipation (0.51)**, followed by **Stress Management and Sentiment (0.48)**, showing that emotional tone often aligns with stress handling and future outlook.
 
 
-::contentReference[oaicite:0]{index=0}
-
-
----
-
 ### Interpretation Summary
 Weekly feelings influence future outlook and stress levels. Positive or negative weeks shape both current emotional strain and expectations for upcoming weeks.
 
----
 
 ### Stacked Bar Chart: Sentiment by Week & Cohort
 
-::contentReference[oaicite:1]{index=1}
 
-
---- <img width="1097" height="797" alt="image" src="https://github.com/user-attachments/assets/bf86ec4a-3e71-478c-9308-fb56b70ac7a8" />
+<img width="1097" height="797" alt="image" src="https://github.com/user-attachments/assets/bf86ec4a-3e71-478c-9308-fb56b70ac7a8" />
 
 
 ### Stacked Bar Chart: Future Anticipation by Week & Cohort
 
-::contentReference[oaicite:2]{index=2}
 
-
---- <img width="1097" height="797" alt="image" src="https://github.com/user-attachments/assets/15364f7e-93b1-4938-a3f5-8bf74d01b3ec" />
+<img width="1097" height="797" alt="image" src="https://github.com/user-attachments/assets/15364f7e-93b1-4938-a3f5-8bf74d01b3ec" />
 
 
 ### Stacked Bar Chart: Work/Life Balance by Week & Cohort
 
-::contentReference[oaicite:3]{index=3}
+
+<img width="1097" height="797" alt="image" src="https://github.com/user-attachments/assets/a620e108-7d49-49a5-bcc0-4674dbaa8651" />
 
 
---- <img width="1097" height="797" alt="image" src="https://github.com/user-attachments/assets/a620e108-7d49-49a5-bcc0-4674dbaa8651" />
-
-
-## Personas Visualization (Next Section)
-Coming soon, this section will categorize participants into personas based on emotional and technical development signals reflected in weekly diary themes.
+## Personas Visualization 
+This section will categorize participants into personas based on emotional and technical development signals reflected in weekly diary themes.
