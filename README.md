@@ -1,15 +1,14 @@
 # Digital-Diary-Project
 
-<img width="1000" height="470" alt="image" src="https://github.com/user-attachments/assets/ce27974a-12d2-447a-877d-802979cf2839" />
-This repo displays my digital diary project 
+<img width="1208" height="578" alt="image" src="https://github.com/user-attachments/assets/8e5bf9cf-726c-433e-a993-bfd5c3b93242" />
 
-This project analyzes participant diary entries across 4 cohorts using sentiment counts and custom personas.  
+This project analyzes participant diary entries across 4 unique cohorts with 7 different categories.  
 It includes:
 
 - Data cleaning & aggregation using pandas
-- 2x2 cohort comparison bar charts
-- Persona distribution pie chart
-- Correlation heatmap for cohort attributes
+- Cohort comparison charts
+- Persona distribution charts
+- Correlation heatmap for cohort categorical attributes
 - Notebook code used to generate all visual insights
 
 ## Cohorts Analyzed
@@ -18,10 +17,18 @@ It includes:
 - Engineering (SEA)
 - Design (SDA)
 
+## Categories 
+- Sentiment
+- Future Anticipation
+- Stress Management
+- Work-Life Balance
+- Progress
+- Obstacles
+- Learning
+
 ## Personas Created
 - Blossoming Grinder
 - Confidence Catalyst
 - Resilience Builder
 - Global Mover
 
-All charts are generated in Python using Matplotlib.
