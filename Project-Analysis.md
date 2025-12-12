@@ -2,13 +2,6 @@
 
 Below is the overall project analysis section. The linked HTML file contains the full end-to-end data pipeline, including all transformation steps, category tagging, association measures, and visual outputs.
 
-
-## Full Pipeline & Code Walkthrough (HTML)
-
-Here is the complete sentiment and persona analysis pipeline used in this project. Feel free to open the report to scroll through each step, view cleaned data tables, inspect association metrics, and reproduce or extend the work later.
-
-### HTML File: file:///Users/willoricch/MyProjects/ddsummary.html
-
 ## Data Preview (After Cleaning)
 
 The table below shows the key cleaned columns from the digital diary dataset after restructuring. Only standardized and verifiable information is displayed here for clarity. 
